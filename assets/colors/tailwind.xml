@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+
+    <!-- Slate -->
+    <color name="tw-slate50">#FFF8FAFC</color>
+    <color name="tw-slate100">#FFF1F5F9</color>
+    <color name="tw-slate200">#FFE2E8F0</color>
+    <color name="tw-slate300">#FFCBD5E1</color>
+    <color name="tw-slate400">#FF94A3B8</color>
+    <color name="tw-slate500">#FF64748B</color>
+    <color name="tw-slate600">#FF475569</color>
+    <color name="tw-slate700">#FF334155</color>
+    <color name="tw-slate800">#FF1E293B</color>
+    <color name="tw-slate900">#FF0F172A</color>
+
+    <!-- Gray -->
+    <color name="tw-gray50">#FFF9FAFB</color>
+    <color name="tw-gray100">#FFF3F4F6</color>
+    <color name="tw-gray200">#FFE5E7EB</color>
+    <color name="tw-gray300">#FFD1D5DB</color>
+    <color name="tw-gray400">#FF9CA3AF</color>
+    <color name="tw-gray500">#FF6B7280</color>
+    <color name="tw-gray600">#FF4B5563</color>
+    <color name="tw-gray700">#FF374151</color>
+    <color name="tw-gray800">#FF1F2937</color>
+    <color name="tw-gray900">#FF111827</color>
+
+    <!-- Zinc -->
+    <color name="tw-zinc50">#FFFFFAFA</color>
+    <color name="tw-zinc100">#FFF4F4F5</color>
+    <color name="tw-zinc200">#FFE4E4E7</color>
+    <color name="tw-zinc300">#FFD4D4D8</color>
+    <color name="tw-zinc400">#FFA1A1AA</color>
+    <color name="tw-zinc500">#FF71717A</color>
+    <color name="tw-zinc600">#FF52525B</color>
+    <color name="tw-zinc700">#FF3F3F46</color>
+    <color name="tw-zinc800">#FF27272A</color>
+    <color name="tw-zinc900">#FF18181B</color>
+
+    <!-- Neutral -->
+    <color name="tw-neutral50">#FFFFFAFA</color>
+    <color name="tw-neutral100">#FFF5F5F5</color>
+    <color name="tw-neutral200">#FFE5E5E5</color>
+    <color name="tw-neutral300">#FFD4D4D4</color>
+    <color name="tw-neutral400">#FFA3A3A3</color>
+    <color name="tw-neutral500">#FF737373</color>
+    <color name="tw-neutral600">#FF525252</color>
+    <color name="tw-neutral700">#FF404040</color>
+    <color name="tw-neutral800">#FF262626</color>
+    <color name="tw-neutral900">#FF171717</color>
+
+    <!-- Stone -->
+    <color name="tw-stone50">#FFFAFAF9</color>
+    <color name="tw-stone100">#FFF5F5F4</color>
+    <color name="tw-stone200">#FFE7E5E4</color>
+    <color name="tw-stone300">#FFD6D3D1</color>
+    <color name="tw-stone400">#FFA8A29E</color>
+    <color name="tw-stone500">#FF78716C</color>
+    <color name="tw-stone600">#FF57534E</color>
+    <color name="tw-stone700">#FF44403C</color>
+    <color name="tw-stone800">#FF292524</color>
+    <color name="tw-stone900">#FF1C1917</color>
+
+    <!-- Red -->
+    <color name="tw-red50">#FFFFF2F2</color>
+    <color name="tw-red100">#FFfee2e2</color>
+    <color name="tw-red200">#FFfecaca</color>
+    <color name="tw-red300">#FFfca5a5</color>
+    <color name="tw-red400">#FFf87171</color>
+    <color name="tw-red500">#FFef4444</color>
+    <color name="tw-red600">#FFdc2626</color>
+    <color name="tw-red700">#FFb91c1c</color>
+    <color name="tw-red800">#FF991b1b</color>
+    <color name="tw-red900">#FF7f1d1d</color>
+
+    <!-- Orange -->
+    <color name="tw-orange50">#FFFff7ed</color>
+    <color name="tw-orange100">#FFffedd5</color>
+    <color name="tw-orange200">#FFfed7aa</color>
+    <color name="tw-orange300">#FFfdbA74</color>
+    <color name="tw-orange400">#FFfb923c</color>
+    <color name="tw-orange500">#FFf97316</color>
+    <color name="tw-orange600">#FFea580c</color>
+    <color name="tw-orange700">#FFc2410c</color>
+    <color name="tw-orange800">#FF9a3412</color>
+    <color name="tw-orange900">#FF7c2d12</color>
+
+    <!-- Amber -->
+    <color name="tw-amber50">#FFFfffbeb</color>
+    <color name="tw-amber100">#FFfef3c7</color>
+    <color name="tw-amber200">#FFfde68a</color>
+    <color name="tw-amber300">#FFfcd34d</color>
+    <color name="tw-amber400">#FFfbbf24</color>
+    <color name="tw-amber500">#FFf59e0b</color>
+    <color name="tw-amber600">#FFd97706</color>
+    <color name="tw-amber700">#FFb45309</color>
+    <color name="tw-amber800">#FF92400e</color>
+    <color name="tw-amber900">#FF78350f</color>
+
+    <!-- Yellow -->
+    <color name="tw-yellow50">#FFFfefce8</color>
+    <color name="tw-yellow100">#FFfef9c3</color>
+    <color name="tw-yellow200">#FFfef08a</color>
+    <color name="tw-yellow300">#FFfde047</color>
+    <color name="tw-yellow400">#FFfacc15</color>
+    <color name="tw-yellow500">#FFeab308</color>
+    <color name="tw-yellow600">#FFca8a04</color>
+    <color name="tw-yellow700">#FFa16207</color>
+    <color name="tw-yellow800">#FF854d0e</color>
+    <color name="tw-yellow900">#FF713f12</color>
+
+    <!-- Lime -->
+    <color name="tw-lime50">#FFF7FEE7</color>
+    <color name="tw-lime100">#FFecfccb</color>
+    <color name="tw-lime200">#FFd9f99d</color>
+    <color name="tw-lime300">#FFbef264</color>
+    <color name="tw-lime400">#FFa3e635</color>
+    <color name="tw-lime500">#FF84cc16</color>
+    <color name="tw-lime600">#FF65a30d</color>
+    <color name="tw-lime700">#FF4d7c0f</color>
+    <color name="tw-lime800">#FF3f6212</color>
+    <color name="tw-lime900">#FF365314</color>
+
+    <!-- Green -->
+    <color name="tw-green50">#FFF0FDF4</color>
+    <color name="tw-green100">#FFdcfce7</color>
+    <color name="tw-green200">#FFbbf7d0</color>
+    <color name="tw-green300">#FF86efac</color>
+    <color name="tw-green400">#FF4ade80</color>
+    <color name="tw-green500">#FF22c55e</color>
+    <color name="tw-green600">#FF16a34a</color>
+    <color name="tw-green700">#FF15803d</color>
+    <color name="tw-green800">#FF166534</color>
+    <color name="tw-green900">#FF14532d</color>
+
+    <!-- Emerald -->
+    <color name="tw-emerald50">#FFecfdf5</color>
+    <color name="tw-emerald100">#FFd1fae5</color>
+    <color name="tw-emerald200">#FFa7f3d0</color>
+    <color name="tw-emerald300">#FF6ee7b7</color>
+    <color name="tw-emerald400">#FF34d399</color>
+    <color name="tw-emerald500">#FF10b981</color>
+    <color name="tw-emerald600">#FF059669</color>
+    <color name="tw-emerald700">#FF047857</color>
+    <color name="tw-emerald800">#FF065f46</color>
+    <color name="tw-emerald900">#FF064e3b</color>
+
+    <!-- Teal -->
+    <color name="tw-teal50">#FFF0FDFa</color>
+    <color name="tw-teal100">#FFccfbf1</color>
+    <color name="tw-teal200">#FF99f6e4</color>
+    <color name="tw-teal300">#FF5eead4</color>
+    <color name="tw-teal400">#FF2dd4bf</color>
+    <color name="tw-teal500">#FF14b8a6</color>
+    <color name="tw-teal600">#FF0d9488</color>
+    <color name="tw-teal700">#FF0f766e</color>
+    <color name="tw-teal800">#FF115e59</color>
+    <color name="tw-teal900">#FF134e4a</color>
+
+    <!-- Cyan -->
+    <color name="tw-cyan50">#FFecfeff</color>
+    <color name="tw-cyan100">#FFcffafe</color>
+    <color name="tw-cyan200">#FFa5f3fc</color>
+    <color name="tw-cyan300">#FF67e8f9</color>
+    <color name="tw-cyan400">#FF22d3ee</color>
+    <color name="tw-cyan500">#FF06b6d4</color>
+    <color name="tw-cyan600">#FF0891b2</color>
+    <color name="tw-cyan700">#FF0e7490</color>
+    <color name="tw-cyan800">#FF155e75</color>
+    <color name="tw-cyan900">#FF164e63</color>
+
+    <!-- Sky -->
+    <color name="tw-sky50">#FFF0f9ff</color>
+    <color name="tw-sky100">#FFe0f2fe</color>
+    <color name="tw-sky200">#FFbae6fd</color>
+    <color name="tw-sky300">#FF7dd3fc</color>
+    <color name="tw-sky400">#FF38bdf8</color>
+    <color name="tw-sky500">#FF0ea5e9</color>
+    <color name="tw-sky600">#FF0284c7</color>
+    <color name="tw-sky700">#FF0369a1</color>
+    <color name="tw-sky800">#FF075985</color>
+    <color name="tw-sky900">#FF0c4a6e</color>
+
+    <!-- Blue -->
+    <color name="tw-blue50">#FFeff6ff</color>
+    <color name="tw-blue100">#FFdbeafe</color>
+    <color name="tw-blue200">#FFbfdbfe</color>
+    <color name="tw-blue300">#FF93c5fd</color>
+    <color name="tw-blue400">#FF60a5fa</color>
+    <color name="tw-blue500">#FF3b82f6</color>
+    <color name="tw-blue600">#FF2563eb</color>
+    <color name="tw-blue700">#FF1d4ed8</color>
+    <color name="tw-blue800">#FF1e40af</color>
+    <color name="tw-blue900">#FF1e3a8a</color>
+
+    <!-- Indigo -->
+    <color name="tw-indigo50">#FFeef2ff</color>
+    <color name="tw-indigo100">#FFe0e7ff</color>
+    <color name="tw-indigo200">#FFc7d2fe</color>
+    <color name="tw-indigo300">#FFa5b4fc</color>
+    <color name="tw-indigo400">#FF818cf8</color>
+    <color name="tw-indigo500">#FF6366f1</color>
+    <color name="tw-indigo600">#FF4f46e5</color>
+    <color name="tw-indigo700">#FF4338ca</color>
+    <color name="tw-indigo800">#FF3730a3</color>
+    <color name="tw-indigo900">#FF312e81</color>
+
+    <!-- Violet -->
+    <color name="tw-violet50">#FFf5f3ff</color>
+    <color name="tw-violet100">#FFede9fe</color>
+    <color name="tw-violet200">#FFddd6fe</color>
+    <color name="tw-violet300">#FFc4b5fd</color>
+    <color name="tw-violet400">#FFa78bfa</color>
+    <color name="tw-violet500">#FF8b5cf6</color>
+    <color name="tw-violet600">#FF7c3aed</color>
+    <color name="tw-violet700">#FF6d28d9</color>
+    <color name="tw-violet800">#FF5b21b6</color>
+    <color name="tw-violet900">#FF4c1d95</color>
+
+    <!-- Purple -->
+    <color name="tw-purple50">#FFfaf5ff</color>
+    <color name="tw-purple100">#FFf3e8ff</color>
+    <color name="tw-purple200">#FFe9d5ff</color>
+    <color name="tw-purple300">#FFd8b4fe</color>
+    <color name="tw-purple400">#FFc084fc</color>
+    <color name="tw-purple500">#FFa855f7</color>
+    <color name="tw-purple600">#FF9333ea</color>
+    <color name="tw-purple700">#FF7e22ce</color>
+    <color name="tw-purple800">#FF6b21a8</color>
+    <color name="tw-purple900">#FF581c87</color>
+
+    <!-- Fuchsia -->
+    <color name="tw-fuchsia50">#FFfdf4ff</color>
+    <color name="tw-fuchsia100">#FFfae8ff</color>
+    <color name="tw-fuchsia200">#FFf5d0fe</color>
+    <color name="tw-fuchsia300">#FFf0abfc</color>
+    <color name="tw-fuchsia400">#FFe879f9</color>
+    <color name="tw-fuchsia500">#FFd946ef</color>
+    <color name="tw-fuchsia600">#FFc026d3</color>
+    <color name="tw-fuchsia700">#FFa21caf</color>
+    <color name="tw-fuchsia800">#FF86198f</color>
+    <color name="tw-fuchsia900">#FF701a75</color>
+
+    <!-- Pink -->
+    <color name="tw-pink50">#FFfdf2f8</color>
+    <color name="tw-pink100">#FFfce7f3</color>
+    <color name="tw-pink200">#FFfbcfe8</color>
+    <color name="tw-pink300">#FFf9a8d4</color>
+    <color name="tw-pink400">#FFf472b6</color>
+    <color name="tw-pink500">#FFec4899</color>
+    <color name="tw-pink600">#FFdb2777</color>
+    <color name="tw-pink700">#FFbe185d</color>
+    <color name="tw-pink800">#FF9d174d</color>
+    <color name="tw-pink900">#FF831843</color>
+
+    <!-- Rose -->
+    <color name="tw-rose50">#FFfff1f2</color>
+    <color name="tw-rose100">#FFffe4e6</color>
+    <color name="tw-rose200">#FFfecdd3</color>
+    <color name="tw-rose300">#FFfda4af</color>
+    <color name="tw-rose400">#FFfb7185</color>
+    <color name="tw-rose500">#FFf43f5e</color>
+    <color name="tw-rose600">#FFe11d48</color>
+    <color name="tw-rose700">#FFbe123c</color>
+    <color name="tw-rose800">#FF9f1239</color>
+    <color name="tw-rose900">#FF881337</color>
+</resources>

@@ -1,0 +1,41 @@
+[
+    {"label": "Rice", "name": "Pilav", "calorie": 200, "unit": "gram"},
+    {"label": "Roti", "name": "Gözleme", "calorie": 100, "unit": "adet"},
+    {"label": "Vada", "name": "Pişi", "calorie": 100, "unit": "adet"},
+    {"label": "Chips", "name": "Cips", "calorie": 100, "unit": "gram"},
+    {"label": "Pizza", "name": "Pizza", "calorie": 300, "unit": "adet"},
+    {"label": "Burger", "name": "Hamburger", "calorie": 300, "unit": "adet"},
+    {
+      "label": "Fries",
+      "name": "Patates kızartması",
+      "calorie": 200,
+      "unit": "gram"
+    },
+    {"label": "Tea", "name": "Çay", "calorie": 100, "unit": "bardak"},
+    {"label": "Paneer", "name": "Peynir", "calorie": 100, "unit": "gram"},
+    {
+      "label": "Chicken Biryani",
+      "name": "Tavuklu biryani",
+      "calorie": 300,
+      "unit": "gram"
+    },
+    {"label": "Biryani", "name": "Biryani", "calorie": 300, "unit": "gram"},
+    {"label": "Chicken", "name": "Tavuk", "calorie": 200, "unit": "gram"},
+    {"label": "Fish", "name": "Balık", "calorie": 200, "unit": "gram"},
+    {"label": "Milk", "name": "Süt", "calorie": 100, "unit": "bardak"},
+    {"label": "Egg", "name": "Yumurta", "calorie": 100, "unit": "adet"},
+    {"label": "Ice cream", "name": "Dondurma", "calorie": 200, "unit": "gram"},
+    {"label": "Chocolate", "name": "Çikolata", "calorie": 100, "unit": "adet"},
+    {"label": "Noodles", "name": "Noodle", "calorie": 200, "unit": "gram"},
+    {
+      "label": "Fried rice",
+      "name": "Kızarmış pirinç",
+      "calorie": 200,
+      "unit": "gram"
+    },
+    {"label": "Cashew nuts", "name": "Kaju", "calorie": 100, "unit": "gram"},
+    {"label": "Almonds", "name": "Badem", "calorie": 100, "unit": "gram"},
+    {"label": "Banana", "name": "Muz", "calorie": 100, "unit": "adet"},
+    {"label": "Apple", "name": "Elma", "calorie": 100, "unit": "adet"},
+    {"label": "Bread", "name": "Ekmek", "calorie": 100, "unit": "adet"}
+  ]

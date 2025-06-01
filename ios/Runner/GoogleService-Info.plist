@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCKlllF_u0yIcHjAE5CoqshNPTwzAOVWUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>98225372651</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.smartdiet.smartDiet</string>
+	<key>PROJECT_ID</key>
+	<string>akillidiyet</string>
+	<key>STORAGE_BUCKET</key>
+	<string>akillidiyet.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:98225372651:ios:d4a255d0f3e9bc0e922dae</string>
+</dict>
+</plist>

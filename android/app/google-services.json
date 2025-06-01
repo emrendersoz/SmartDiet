@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98225372651",
+    "project_id": "akillidiyet",
+    "storage_bucket": "akillidiyet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98225372651:android:24895c6e8a38bedc922dae",
+        "android_client_info": {
+          "package_name": "com.smartdiet.smart_diet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoOJ8The7YimkH62Qc51VGnuFnPC8tp_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

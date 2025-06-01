@@ -1,0 +1,22 @@
+ 
+include: package:very_good_analysis/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - lib/product/init/language/
+    - lib/product/init/generation/
+    - "**/*.g.dart"
+    - "**/*.freezed.dart"
+    - "test/.test_coverage.dart"
+    - "bin/cache/**"
+    - "lib/generated_plugin_registrant.dart"
+    - "*.yaml"
+    
+
+linter: 
+  rules:
+    public_member_api_docs: false 
+    inference_failure_on_function_invocation: false
+    lines_longer_than_80_chars: false
+    always_use_package_imports: false
+    prefer_relative_imports: true 
