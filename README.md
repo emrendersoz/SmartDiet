@@ -1,6 +1,14 @@
-# smart_diet
+# SmartDiet
 
-A new Flutter project.
+SmartDiet is a Flutter-based mobile application that helps users track and manage their daily food intake. Users can view meal categories, browse foods, and monitor their total calorie intake throughout the day.  
+It also uses advanced image recognition to detect foods from photos and estimate their nutritional values based on portion size, making meal logging faster and easier.
+
+---
+
+SmartDiet, Flutter ile geliştirilmiş bir mobil uygulamadır. Kullanıcıların günlük yiyecek tüketimlerini takip etmelerini ve toplam kalori alımlarını izlemelerini sağlar.  
+Ayrıca gelişmiş görüntü işleme teknolojisi sayesinde fotoğraftan yiyecekleri tanır ve porsiyon miktarına göre tahmini besin değerlerini hesaplayarak öğün kaydını kolaylaştırır.
+
+---
 
 ![Image](https://github.com/user-attachments/assets/20fb639b-83de-4c2a-bc79-1985821e9dde)
 ![Image](https://github.com/user-attachments/assets/95e175cb-6e5a-428d-b336-7ef4803ae2a8)
